@@ -1,0 +1,5 @@
+SPEECH_KEY = "your_speech_key_here"
+SPEECH_REGION = "SoutheastAsia"
+TRANSLATOR_KEY = "your_translator_key_here"
+TRANSLATOR_REGION = "SoutheastAsia"
+TRANSLATOR_ENDPOINT = "https://api.cognitive.microsofttranslator.com"
